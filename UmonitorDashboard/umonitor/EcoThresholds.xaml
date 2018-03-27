@@ -1,0 +1,36 @@
+﻿<Window x:Class="umonitor.EcoThresholds"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:umonitor"
+        mc:Ignorable="d"
+        Title="Thresholds" Height="1000" Width="1500" Background="Black">
+    <Grid>
+        <Label x:Name="label" Content="Set Threshold Levels" HorizontalAlignment="Center" Margin="242,72,0,0" VerticalAlignment="Top" Width="617" Foreground="White" FontSize="25"/>
+        <TextBox x:Name="tText" HorizontalAlignment="Left" Height="43" Margin="479,149,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22" />
+        <TextBox x:Name="sText" HorizontalAlignment="Left" Height="43" Margin="479,253,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22"/>
+        <TextBox x:Name="bText" HorizontalAlignment="Left" Height="43" Margin="479,352,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22"/>
+        <TextBox x:Name="pText" HorizontalAlignment="Left" Height="43" Margin="479,533,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22"/>
+        <Image x:Name="imageHum" HorizontalAlignment="Left" Height="100" Margin="230,105,0,0" VerticalAlignment="Top" Width="100" Source="images/temperature.png"/>
+        <Image x:Name="imageTemp" HorizontalAlignment="Left" Height="100" Margin="230,228,0,0" VerticalAlignment="Top" Width="100" Source="images/ic_saturation-web.png"/>
+        <Image x:Name="imageTemp_Copy" HorizontalAlignment="Left" Height="100" Margin="230,352,0,0" VerticalAlignment="Top" Width="100" Source="images/bp.png"/>
+        <Image x:Name="imageTemp_Copy1" HorizontalAlignment="Left" Height="100" Margin="230,497,0,0" VerticalAlignment="Top" Width="100" Source="images/pulse.png"/>
+        <Button x:Name="btnSetL" Content="Set Levels" HorizontalAlignment="Left" Margin="460,638,0,0" VerticalAlignment="Top" Width="120" Height="70" FontSize="22" Click="btnSetL_Click"/>
+        <Button x:Name="btnCancelL" Content="Cancel" HorizontalAlignment="Left" Margin="654,638,0,0" VerticalAlignment="Top" Width="120" Height="70" FontSize="22"/>
+        <Label x:Name="label1" Content="Celcius" HorizontalAlignment="Left" Margin="855,149,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+        <Label x:Name="label1_Copy" Content="%" HorizontalAlignment="Left" Margin="855,253,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+        <Label x:Name="label1_Copy1" Content="mmHg" HorizontalAlignment="Left" Margin="855,352,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+        <Label x:Name="label1_Copy2" Content="pulse/Min" HorizontalAlignment="Left" Margin="855,477,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+        <TextBox x:Name="t2Text" HorizontalAlignment="Left" Height="43" Margin="622,149,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22" />
+        <TextBox x:Name="s2Text" HorizontalAlignment="Left" Height="43" Margin="622,253,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22"/>
+        <TextBox x:Name="b2Text" HorizontalAlignment="Left" Height="43" Margin="622,352,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22" RenderTransformOrigin="1.985,0.55"/>
+        <TextBox x:Name="p2Text" HorizontalAlignment="Left" Height="43" Margin="622,533,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22"/>
+        <TextBox x:Name="b3LText" HorizontalAlignment="Left" Height="43" Margin="479,441,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22"/>
+        <TextBox x:Name="b3Text" HorizontalAlignment="Left" Height="43" Margin="622,441,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="101" FontSize="22" RenderTransformOrigin="1.985,0.55"/>
+        <Label x:Name="label1_Copy3" Content="SYS" HorizontalAlignment="Left" Margin="381,352,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+        <Label x:Name="label1_Copy4" Content="DIA" HorizontalAlignment="Left" Margin="381,441,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+        <Label x:Name="label1_Copy5" Content="Low" HorizontalAlignment="Left" Margin="480,101,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+        <Label x:Name="label1_Copy6" Content="High" HorizontalAlignment="Left" Margin="654,106,0,0" VerticalAlignment="Top" Height="43" Foreground="White" FontSize="22"/>
+    </Grid>
+</Window>

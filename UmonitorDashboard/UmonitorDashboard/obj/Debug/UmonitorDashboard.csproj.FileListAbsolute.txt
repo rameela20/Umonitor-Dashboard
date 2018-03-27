@@ -1,0 +1,15 @@
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\bin\Debug\UmonitorDashboard.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\bin\Debug\UmonitorDashboard.exe
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\bin\Debug\UmonitorDashboard.pdb
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard_MarkupCompile.lref
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\App.baml
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard.g.resources
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard.exe
+c:\users\asus\documents\visual studio 2015\Projects\UmonitorDashboard\UmonitorDashboard\obj\Debug\UmonitorDashboard.pdb
